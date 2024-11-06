@@ -1,2 +1,0 @@
-ninja: Entering directory `/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/.cxx/Debug/6c6j105c/armeabi-v7a'
-ninja: no work to do.

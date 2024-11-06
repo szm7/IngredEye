@@ -1,1 +1,0 @@
-/Users/saninzulphi/Desktop/Specialization Project/sproject/build/ultralytics_yolo/intermediates/cxx/Debug/6c6j105c/obj/x86_64
