@@ -1,0 +1,1 @@
+/Users/saninzulphi/Desktop/Specialization Project/sproject/build/ultralytics_yolo/intermediates/cxx/Debug/6c6j105c/obj/arm64-v8a

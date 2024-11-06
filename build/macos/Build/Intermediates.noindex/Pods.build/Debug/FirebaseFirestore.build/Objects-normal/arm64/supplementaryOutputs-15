@@ -1,0 +1,18 @@
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodableErrors.swift":
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.o"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftdeps"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.dia"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.d"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftconstvalues"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodablePassThroughTypes.swift":
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftconstvalues"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.o"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftdeps"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.d"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.dia"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/CollectionReference+AsyncAwait.swift":
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.d"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.o"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftconstvalues"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.dia"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftdeps"

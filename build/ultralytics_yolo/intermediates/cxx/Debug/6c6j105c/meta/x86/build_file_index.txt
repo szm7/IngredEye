@@ -1,0 +1,6 @@
+/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/CMakeLists.txt
+/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig-version.cmake
+/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig.cmake
+/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86/OpenCVConfig.cmake
+/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86/OpenCVModules-release.cmake
+/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86/OpenCVModules.cmake

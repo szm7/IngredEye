@@ -1,0 +1,18 @@
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftdeps"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftconstvalues"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.o"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.dia"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.d"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.d"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.swiftconstvalues"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftconstvalues"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.o"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"

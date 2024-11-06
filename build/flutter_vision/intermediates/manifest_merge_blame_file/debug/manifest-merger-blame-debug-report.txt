@@ -1,0 +1,14 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vladih.computer_vision.flutter_vision" > <!-- enable this for storing  bitmap -->
+4    <!--
+5<application android:requestLegacyExternalStorage="true">
+6    </application>
+7    -->
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->/Users/saninzulphi/.pub-cache/hosted/pub.dev/flutter_vision-1.1.4/android/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="21" />
+10-->/Users/saninzulphi/.pub-cache/hosted/pub.dev/flutter_vision-1.1.4/android/src/main/AndroidManifest.xml
+11
+12</manifest>

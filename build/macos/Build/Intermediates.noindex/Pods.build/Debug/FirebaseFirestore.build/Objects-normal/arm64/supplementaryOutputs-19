@@ -1,0 +1,18 @@
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift":
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftconstvalues"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.dia"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftdeps"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.d"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift":
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.d"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftconstvalues"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.dia"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftdeps"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift":
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftconstvalues"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.d"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.dia"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftdeps"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o"

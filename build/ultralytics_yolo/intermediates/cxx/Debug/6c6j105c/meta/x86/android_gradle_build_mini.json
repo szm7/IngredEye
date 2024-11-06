@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/CMakeLists.txt",
+    "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86/OpenCVConfig.cmake",
+    "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86/OpenCVModules-release.cmake",
+    "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/src/main/cpp/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86/OpenCVModules.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/saninzulphi/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/.cxx/Debug/6c6j105c/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/saninzulphi/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/saninzulphi/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.0.3/android/.cxx/Debug/6c6j105c/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ultralytics::@6890427a1f51a3e7e1df": {
+      "artifactName": "ultralytics",
+      "abi": "x86",
+      "output": "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/ultralytics_yolo/intermediates/cxx/Debug/6c6j105c/obj/x86/libultralytics.so",
+      "runtimeFiles": []
+    }
+  }
+}

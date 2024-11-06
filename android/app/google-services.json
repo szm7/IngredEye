@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456500803463",
+    "project_id": "see-it-cook-it",
+    "storage_bucket": "see-it-cook-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456500803463:android:beb5cc12b7d48ec6f80522",
+        "android_client_info": {
+          "package_name": "com.example.sproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUleug14K5_0NN-2zsVx__IkCRIcRiY4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

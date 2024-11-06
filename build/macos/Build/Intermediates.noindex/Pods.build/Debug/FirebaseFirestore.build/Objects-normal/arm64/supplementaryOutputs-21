@@ -1,0 +1,18 @@
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift":
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o"
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.d"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftdeps"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftconstvalues"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.dia"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia"
+"/Users/saninzulphi/Desktop/Specialization Project/sproject/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d"
+  diagnostics: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia"
+  swift-dependencies: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps"
+  const-values: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues"
+  object: "/Users/saninzulphi/Desktop/Specialization Project/sproject/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o"

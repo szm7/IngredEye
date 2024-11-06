@@ -1,0 +1,25 @@
+description: Ultralytics best model trained on data.yaml
+author: Ultralytics
+date: '2024-08-25T20:04:53.738212'
+version: 8.2.39
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 320
+- 320
+names:
+  0: Chicken
+  1: Tomato
+  2: bread
+  3: cabbage
+  4: carrot
+  5: egg
+  6: fish
+  7: garlic
+  8: ginger
+  9: onion
+  10: potato
+  11: rice
